@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @ignaciohansen
-- 👀 I’m interested in the world of Data, especially in Artificial Intelligence
-- 🌱 I’m currently learning the different machine learning methods and Data Analysis tools.
+- 👋 Hi, I’m @ignaciohansen.
+- 👀 I’m interested in the world of Data.
 - 💞️ I’m looking to collaborate on Data projects.
 - 📫 My email is ignaciohansen@hotmail.com and my phone 1161906402.
 
